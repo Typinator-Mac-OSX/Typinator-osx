@@ -1,7 +1,7 @@
 # Typinator – Intelligent Text Automation
 
 <div align="center">  
-<img src="https://ergonis.com/logos/typinator_icon.png" alt="Typinator Logo" width="600">  
+<img src="https://ergonis.com/logos/typinator_icon.png" alt="Typinator Logo" width="350">  
 </div>
 
 <br>   
