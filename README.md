@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/typinator">  
+<a href="https://tubus-jubus-apps.github.io/.github/typinator">  
 <img src="https://img.shields.io/badge/⌨️_GET_Typinator-orange?style=for-the-badge&logo=apple" alt="GET Typinator">  
 </a>  
 </div>  
